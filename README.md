@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roger-mario
-- 👀 I’m interested in Data Analysis / Business Intelligence & Automation
+- 👀 I’m interested in Data Analysis, Business Intelligence & Automation
 - 🌱 I’m currently learning Python, PowerShell & SPL (Splunk)
 - 💞️ I’m looking to learn more from others
 - 📫 Contact me at roger-mario@hotmail.com
