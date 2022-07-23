@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @roger-mario
 - 👀 I’m interested in Data Analysis, Business Intelligence & Automation
+- 💻 I working mainly with Splunk & Dynatrace
 - 🌱 I’m currently learning Python, PowerShell & SPL (Splunk)
 - 💞️ I’m looking to learn more from others
 - 📫 Contact me at roger-mario@hotmail.com
